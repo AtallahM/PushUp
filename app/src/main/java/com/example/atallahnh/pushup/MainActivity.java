@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     private void sayHi(){
 
         int i = 1+ 1;
-
+        // Test
+        i+=9;
     }
 }
